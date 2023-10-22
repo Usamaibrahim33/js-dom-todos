@@ -12,8 +12,33 @@
     },
     {
       "id": 3,
-      "title": "Fix the gutters",
+      "title": "Fix the gutter",
       "completed": true
+    },
+    {
+      "title": "john",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "title": "clean the grass",
+      "completed": true,
+      "id": 5
+    },
+    {
+      "title": "clean the grass",
+      "completed": true,
+      "id": 6
+    },
+    {
+      "title": "do not clean",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "title": "now clean",
+      "completed": true,
+      "id": 8
     }
   ]
 }
